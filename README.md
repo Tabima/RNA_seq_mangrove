@@ -57,7 +57,7 @@ Entonces, el numero de muestras que pueden haber para 7x de cobertura promedio e
 
 El numero es demasiado alto, pero podria ser real. 
 
-> Nota 1: Recordar que son promedios y escribirle a los autores para pedirles el transcriptoma (Por que sonbre este vamos a mapear los reads)
+> Nota 1: Recordar que son promedios y escribirle a los autores para pedirles el transcriptoma (Por que sobre este vamos a mapear los reads)
 
 > Nota 2: Preguntar al CGRB sobre numeros de reads de RNAseq para paired end reads de 150bp para el HiSeq-3000
 
